@@ -76,14 +76,3 @@ Feel free to submit issues or pull requests if you want to contribute to this pr
 
 This script was created for easy installation and setup of ActiveMQ Artemis. For more information, visit the [Apache ActiveMQ Artemis website](https://activemq.apache.org/components/artemis/).
 ```
-
-### Instructions
-
-1. **Copy the Markdown text above**.
-2. **Create a file named `README.md`** in your project directory.
-3. **Paste the copied text into the `README.md` file**.
-4. **Save the file**.
-
-### Conclusion
-
-This `README.md` provides clear instructions on how to use the installation script for ActiveMQ Artemis. If you need further modifications or additional sections, feel free to ask!
